@@ -1,0 +1,11 @@
+Session 6 – Visualization and Plotting
+Assignment – 2
+
+1.
+A.
+> barplot(titanic$fare, xlab="Passenger Fare in pounds")
+
+
+B.
+> barplot(titanic$age, xlab="Passenger Age in years")
+
